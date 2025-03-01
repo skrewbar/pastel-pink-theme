@@ -34,6 +34,7 @@
 
     "statusBar.background": "#e49898",
     "statusBar.debuggingBackground": "#6ed1e2",
+    "statusBar.noFolderBackground": "#a06ee2",
 
     "button.background": "#ff8e8e",
     "button.hoverBackground": "#ff7272",
