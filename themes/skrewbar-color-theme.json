@@ -33,6 +33,7 @@
     "sideBarSectionHeader.background": "#241f1f",
 
     "statusBar.background": "#e49898",
+    "statusBar.debuggingBackground": "#98d9e4",
 
     "button.background": "#ff8e8e",
     "button.hoverBackground": "#ff7272",
@@ -41,13 +42,13 @@
     "focusBorder": "#ff9898",
     "foreground": "#fff0f0",
     "disabledForeground": "#a59393",
-    "widget.shadow": "#2e1f1f",
+    "widget.shadow": "#161313",
 
-    "editor.wordHighlightBackground": "#ffb1b12c",
+    "editor.wordHighlightBackground": "#5e34342c",
     "editor.selectionBackground": "#ffb8b836",
     "editor.wordHighlightStrongBackground": "#ffaaaa7a",
 
-    "list.focusBackground": "#ffaaaa",
+    "list.focusBackground": "#9c6464",
     "list.activeSelectionBackground": "#6e4848",
     "list.inactiveSelectionBackground": "#6e4848b9",
     "list.hoverBackground": "#6e484838",
