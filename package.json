@@ -1,8 +1,17 @@
 {
   "name": "skrewbar",
   "displayName": "skrewbar",
-  "repository": "github:skrewbar/vscode-skrewbar-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skrewbar/vscode-skrewbar-theme.git"
+  },
   "description": "pinky theme",
+  "keywords": [
+    "pink",
+    "theme"
+  ],
+  "publisher": "skrewbar",
+  "icon": "donut.png",
   "version": "0.0.7",
   "engines": {
     "vscode": "^1.97.0"
