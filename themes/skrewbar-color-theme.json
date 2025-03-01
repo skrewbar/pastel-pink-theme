@@ -51,9 +51,9 @@
     "editor.lineHighlightBorder": "#ffaaaa1a",
     "editor.hoverHighlightBackground": "#ff91912d",
 
-    "list.focusBackground": "#9c6464",
+    "list.focusBackground": "#ffa7a72c",
     "list.activeSelectionBackground": "#ff888817",
-    "list.inactiveSelectionBackground": "#6e4848b9",
+    "list.inactiveSelectionBackground": "#ffa8a82a",
     "list.hoverBackground": "#6e484838",
     "list.dropBackground": "#5f4b4b",
     "list.highlightForeground": "#ffaaaa",

@@ -2,6 +2,12 @@
 
 All notable changes to the "skrewbar" extension will be documented in this file.
 
+## 0.0.7
+
+### Changed:
+
+- list inactive selection background
+
 ## 0.0.6
 
 ### Added:
