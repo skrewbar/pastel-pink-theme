@@ -33,7 +33,7 @@
     "sideBarSectionHeader.background": "#241f1f",
 
     "statusBar.background": "#e49898",
-    "statusBar.debuggingBackground": "#98d9e4",
+    "statusBar.debuggingBackground": "#6ed1e2",
 
     "button.background": "#ff8e8e",
     "button.hoverBackground": "#ff7272",
@@ -63,6 +63,7 @@
     "editorInfo.foreground": "#ffaaaa",
 
     "peekViewEditor.background": "#312b2b",
+    "peekViewResult.selectionBackground": "#9c6464",
   },
 
   "semanticHighlighting": true,
