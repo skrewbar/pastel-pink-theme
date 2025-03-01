@@ -2,6 +2,16 @@
 
 All notable changes to the "skrewbar" extension will be documented in this file.
 
+## 0.0.4
+
+### Added:
+
+- editor line highlight border
+
+### Changed:
+
+- editor word highlight background
+
 ## 0.0.3
 
 ### Added:

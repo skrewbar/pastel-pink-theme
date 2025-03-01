@@ -2,8 +2,8 @@
   "name": "skrewbar",
   "displayName": "skrewbar",
   "repository": "github:skrewbar/vscode-skrewbar-theme",
-  "description": "",
-  "version": "0.0.3",
+  "description": "pinky theme",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.97.0"
   },
