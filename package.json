@@ -3,7 +3,7 @@
   "displayName": "skrewbar",
   "repository": "github:skrewbar/vscode-skrewbar-theme",
   "description": "pinky theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.97.0"
   },

@@ -2,6 +2,16 @@
 
 All notable changes to the "skrewbar" extension will be documented in this file.
 
+## 0.0.5
+
+### Added:
+
+- editor hover highlight background
+
+### Changed:
+
+- list active selection background
+
 ## 0.0.4
 
 ### Added:

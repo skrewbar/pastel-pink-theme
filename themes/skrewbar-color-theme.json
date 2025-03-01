@@ -48,9 +48,10 @@
     "editor.wordHighlightStrongBackground": "#ff6d6d28",
     "editor.selectionBackground": "#ffb8b82c",
     "editor.lineHighlightBorder": "#ffaaaa1a",
+    "editor.hoverHighlightBackground": "#ff91912d",
 
     "list.focusBackground": "#9c6464",
-    "list.activeSelectionBackground": "#6e4848",
+    "list.activeSelectionBackground": "#ff888817",
     "list.inactiveSelectionBackground": "#6e4848b9",
     "list.hoverBackground": "#6e484838",
     "list.dropBackground": "#5f4b4b",
