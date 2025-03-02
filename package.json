@@ -23,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "skrewbar",
+        "label": "pastel pink",
         "uiTheme": "vs-dark",
-        "path": "./themes/skrewbar-color-theme.json"
+        "path": "./themes/pastel-pink-color-theme.json"
       }
     ]
   }
