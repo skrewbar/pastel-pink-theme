@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.2.3
+
+### Changed:
+
+- Other Variable, String Link
+- Sub-methods
+
 ## 0.2.2
 
 ### Added:
