@@ -51,6 +51,13 @@
     "editor.lineHighlightBorder": "#ffaaaa1a",
     "editor.hoverHighlightBackground": "#ff91912d",
 
+    "editorBracketHighlight.foreground1": "#ffeb77",
+    "editorBracketHighlight.foreground2": "#ffabfc",
+    "editorBracketHighlight.foreground3": "#84ccff",
+    "editorBracketHighlight.foreground4": "#00000000",
+    "editorBracketHighlight.foreground5": "#00000000",
+    "editorBracketHighlight.foreground6": "#00000000",
+
     "list.focusBackground": "#ffa7a72c",
     "list.activeSelectionBackground": "#ff888817",
     "list.inactiveSelectionBackground": "#ffa8a82a",
@@ -66,7 +73,13 @@
     "editorInfo.foreground": "#ffaaaa",
 
     "peekViewEditor.background": "#312b2b",
-    "peekViewResult.selectionBackground": "#9c6464"
+    "peekViewResult.selectionBackground": "#9c6464",
+
+    "debugToolBar.background": "#252020",
+
+    "dropdown.background": "#252020",
+
+    "inputOption.activeBorder": "#ffbbbb"
   },
 
   "semanticHighlighting": true,

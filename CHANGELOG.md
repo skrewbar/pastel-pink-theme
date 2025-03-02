@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.2.0
+
+### Added:
+
+- Bracket Colors
+- Debug Tool Bar Background
+- Dropdown Background
+- Input Option Active Border
+
 ## 0.1.0
 
 ### Changed:
