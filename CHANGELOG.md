@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.1.0
+
+### Changed:
+
+- Tag
+- Block Level Variables
+- Entity Types
+- CSS Class and Support
+- Attributes
+- JSON Key
+
 ## 0.0.7
 
 ### Changed:

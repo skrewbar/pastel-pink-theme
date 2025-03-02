@@ -12,7 +12,7 @@
   ],
   "publisher": "skrewbar",
   "icon": "donut.png",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.97.0"
   },
