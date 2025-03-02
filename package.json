@@ -1,18 +1,19 @@
 {
-  "name": "skrewbar",
-  "displayName": "skrewbar",
+  "name": "pastel-pink-theme",
+  "displayName": "Pastel Pink Theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/skrewbar/vscode-skrewbar-theme.git"
   },
   "description": "pinky theme",
   "keywords": [
+    "pastel",
     "pink",
     "theme"
   ],
   "publisher": "skrewbar",
   "icon": "donut.png",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.97.0"
   },

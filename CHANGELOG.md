@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.3.0
+
+### Added:
+
+- Language methods
+
 ## 0.2.3
 
 ### Changed:
