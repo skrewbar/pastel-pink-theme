@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.2.2
+
+### Added:
+
+- Settings Modified Item Indicator
+
 ## 0.2.1
 
 ### Added:

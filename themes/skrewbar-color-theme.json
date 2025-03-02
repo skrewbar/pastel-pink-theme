@@ -80,7 +80,9 @@
     "dropdown.background": "#252020",
 
     "inputOption.activeBorder": "#ffbbbb",
-    "inputOption.hoverBackground": "#ffaaaa2a"
+    "inputOption.hoverBackground": "#ffaaaa2a",
+
+    "settings.modifiedItemIndicator": "#7a6c6c"
   },
 
   "semanticHighlighting": true,
