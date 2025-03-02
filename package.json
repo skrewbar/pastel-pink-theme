@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "pastel pink",
+        "label": "Pastel Pink",
         "uiTheme": "vs-dark",
         "path": "./themes/pastel-pink-color-theme.json"
       }
