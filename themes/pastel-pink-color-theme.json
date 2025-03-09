@@ -90,6 +90,9 @@
     "memberOperatorOverload": {
       "foreground": "#ff8a8a"
     },
+    "operatorOverload": {
+      "foreground": "#ff8a8a"
+    },
     "builtinConstant": {
       "foreground": "#ff9292"
     }
