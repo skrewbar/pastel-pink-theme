@@ -1,5 +1,17 @@
 # Change Log
 
+## 0.4.0
+
+### Added:
+
+- Editor Sticky Scroll Hover Background
+
+### Changed:
+
+- most of foreground colors changed to: #ffeeee
+
+- most of bold colors changed to pastel tone
+
 ## 0.3.1
 
 ### Added:
