@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.4.1
+
+### Changed:
+
+- repository name
+
 ## 0.4.0
 
 ### Added:
