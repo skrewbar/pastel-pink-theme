@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.4.2
+
+### Added:
+
+- selfParameter
+- clsParameter
+
+### Changed:
+
+- builtinConstant
+
 ## 0.4.1
 
 ### Changed:

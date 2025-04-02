@@ -89,15 +89,11 @@
 
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "memberOperatorOverload": {
-      "foreground": "#ff8a8a"
-    },
-    "operatorOverload": {
-      "foreground": "#ff8a8a"
-    },
-    "builtinConstant": {
-      "foreground": "#ff9292"
-    }
+    "memberOperatorOverload": "#ff8a8a",
+    "operatorOverload": "#ff8a8a",
+    "builtinConstant": "#ff8a8a",
+    "selfParameter": "#ff8a8a",
+    "clsParameter": "#ff8a8a"
   },
 
   "tokenColors": [
