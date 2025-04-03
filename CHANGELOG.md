@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.5.0
+
+### Changed:
+
+- Pastelize Colors
+- Write README.md
+
 ## 0.4.2
 
 ### Added:
