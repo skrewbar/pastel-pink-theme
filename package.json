@@ -15,7 +15,7 @@
   "icon": "donut.png",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
