@@ -84,7 +84,18 @@
 
     "settings.modifiedItemIndicator": "#7a6c6c",
 
-    "editorStickyScrollHover.background": "#3b2f2f"
+    "editorStickyScrollHover.background": "#3b2f2f",
+
+    "terminal.ansiBlack": "#312b2b",
+    "terminal.ansiBlue": "#7cb5ff",
+    "terminal.ansiBrightBlue": "#a8ceff",
+    "terminal.ansiGreen": "#7ede7b",
+    "terminal.ansiBrightGreen": "#a1ef9e",
+    "terminal.ansiYellow": "#e8e880",
+    "terminal.ansiBrightCyan": "#b2eeef",
+    "terminal.ansiCyan": "#9beeff",
+    "terminal.ansiMagenta": "#ce94e5",
+    "terminal.ansiRed": "#ff8d8d"
   },
 
   "semanticHighlighting": true,

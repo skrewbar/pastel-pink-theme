@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.1.0
+
+### Changed:
+
+- Pastelize Some Terminal ANSI Colors
+
+## 1.0.0
+
+First major release
+
 ## 0.5.0
 
 ### Changed:
