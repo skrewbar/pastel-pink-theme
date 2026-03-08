@@ -13,7 +13,7 @@
   ],
   "publisher": "skrewbar",
   "icon": "donut.png",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -23,9 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pastel Pink",
+        "label": "Pastel Pink (Light Status Bar)",
         "uiTheme": "vs-dark",
-        "path": "./themes/pastel-pink-color-theme.json"
+        "path": "./themes/light-status-bar-color-theme.json"
+      },
+      {
+        "label": "Pastel Pink (Dark Status Bar)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-status-bar-color-theme.json"
       }
     ]
   }

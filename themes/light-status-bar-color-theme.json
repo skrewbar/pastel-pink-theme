@@ -32,9 +32,15 @@
     "sideBarTitle.foreground": "#bbbbbb",
     "sideBarSectionHeader.background": "#241f1f",
 
-    "statusBar.background": "#e49898",
-    "statusBar.debuggingBackground": "#6ed1e2",
-    "statusBar.noFolderBackground": "#a06ee2",
+    "statusBar.background": "#f5a3a3",
+    "statusBar.foreground": "#621a1a",
+    "statusBar.debuggingBackground": "#a3f5f5",
+    "statusBar.debuggingForeground": "#1a6262",
+    "statusBar.noFolderBackground": "#bea3f5",
+    "statusBar.noFolderForeground": "#321a62",
+    "statusBarItem.prominentForeground": "#ffffff",
+    "statusBarItem.prominentHoverBackground": "#00000044",
+    "statusBarItem.prominentHoverForeground": "#ffffff",
 
     "button.background": "#ff8e8e",
     "button.hoverBackground": "#ff7272",
