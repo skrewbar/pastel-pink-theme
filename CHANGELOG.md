@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.2.0
+
+### Added:
+
+- Add dark status bar theme [(#1)](https://github.com/skrewbar/pastel-pink-theme/issues/1)
+
+### Changed:
+
+- Adjust status bar colors for better contrast [(#1)](https://github.com/skrewbar/pastel-pink-theme/issues/1)
+
 ## 1.1.0
 
 ### Changed:

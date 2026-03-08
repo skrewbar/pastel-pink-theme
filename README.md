@@ -29,7 +29,7 @@ Or install directly from the [VSCode Marketplace](https://marketplace.visualstud
 After installation:
 1. Open the **Command Palette** (`Ctrl+Shift+P` / `Cmd+Shift+P` on Mac).
 2. Type **Preferences: Color Theme**.
-3. Select **Pastel Pink** from the list.
+3. Select **Pastel Pink (Light Status Bar)** or **Pastel Pink (Dark Status Bar)** from the list.
 
 ## ❤️ Why Choose Pastel Pink?
 - **Soft on the eyes** – perfect for late-night coding.
