@@ -40,6 +40,8 @@
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.prominentHoverBackground": "#00000044",
     "statusBarItem.prominentHoverForeground": "#ffffff",
+    "statusBarItem.remoteBackground": "#231d1d",
+    "statusBarItem.remoteForeground": "#ffeeee",
 
     "button.background": "#ff8e8e",
     "button.hoverBackground": "#ff7272",
