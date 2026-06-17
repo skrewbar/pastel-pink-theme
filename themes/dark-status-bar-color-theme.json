@@ -93,16 +93,22 @@
 
     "editorStickyScrollHover.background": "#3b2f2f",
 
-    "terminal.ansiBlack": "#312b2b",
-    "terminal.ansiBlue": "#7cb5ff",
-    "terminal.ansiBrightBlue": "#a8ceff",
-    "terminal.ansiGreen": "#7ede7b",
-    "terminal.ansiBrightGreen": "#a1ef9e",
-    "terminal.ansiYellow": "#e8e880",
-    "terminal.ansiBrightCyan": "#b2eeef",
-    "terminal.ansiCyan": "#9beeff",
-    "terminal.ansiMagenta": "#ce94e5",
-    "terminal.ansiRed": "#ff8d8d"
+    "terminal.ansiBlack": "#272222",
+    "terminal.ansiRed": "#ff8787",
+    "terminal.ansiGreen": "#83ff99",
+    "terminal.ansiYellow": "#ffeb86",
+    "terminal.ansiBlue": "#8bd1ff",
+    "terminal.ansiMagenta": "#ff7ca6",
+    "terminal.ansiCyan": "#80ffd2",
+    "terminal.ansiWhite": "#cbbebe",
+    "terminal.ansiBrightBlack": "#7a6a6a",
+    "terminal.ansiBrightRed": "#ffaeae",
+    "terminal.ansiBrightGreen": "#aeffbb",
+    "terminal.ansiBrightYellow": "#fff5b0",
+    "terminal.ansiBrightBlue": "#abdcff",
+    "terminal.ansiBrightMagenta": "#ffb9ce",
+    "terminal.ansiBrightCyan": "#abffe3",
+    "terminal.ansiBrightWhite": "#ffeeee"
   },
 
   "semanticHighlighting": true,
