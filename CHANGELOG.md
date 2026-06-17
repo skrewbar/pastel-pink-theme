@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.2
+
+### Changed:
+
+- Pastelize All Terminal ANSI Colors
+
 ## 1.2.1
 
 ### Changed:
