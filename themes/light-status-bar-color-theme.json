@@ -109,7 +109,9 @@
     "terminal.ansiBrightBlue": "#abdcff",
     "terminal.ansiBrightMagenta": "#ffb9ce",
     "terminal.ansiBrightCyan": "#abffe3",
-    "terminal.ansiBrightWhite": "#ffeeee"
+    "terminal.ansiBrightWhite": "#ffeeee",
+
+    "scmGraph.historyItemBaseRefColor": "#ffbc86"
   },
 
   "semanticHighlighting": true,
