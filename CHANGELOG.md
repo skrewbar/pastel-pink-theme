@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.3.0
+
+### Changed:
+
+- Pastelize SCM Graph History Item Base Reference Color
+
 ## 1.2.2
 
 ### Changed:
